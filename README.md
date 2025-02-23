@@ -8,7 +8,7 @@
 - **Interests:** Cybersecurity, Web Development, Full-Stack Development.  
 
 ## 📌 Featured Project  
-🚀 **[Sigma Project](https://github.com/krishnachaitanya2005/Sigma-Project)** – A notable project showcasing my skills in full-stack development.  
+🚀 **[AIrbnb Clone](https://github.com/krishnachaitanya2005/Sigma-Project)** – A notable project showcasing my skills in full-stack development.  
 
 ## 📫 Connect with Me  
 - 🌍 **GitHub:** [github.com/krishnachaitanya2005](https://github.com/krishnachaitanya2005)  
