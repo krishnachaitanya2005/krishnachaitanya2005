@@ -13,6 +13,7 @@
 ## 📫 Connect with Me  
 - 🌍 **GitHub:** [krishnachaitanya2005](https://github.com/krishnachaitanya2005)  
 - 💼 **LinkedIn:** [Krishna Chaitanya](www.linkedin.com/in/krishna-chaitanya-8b21342a6)  
+- 📧 **Email:** [chaitanya.jgs@gmail.com]  
 
 ## 🎯 Hobbies & Interests  
 🔹 Staying updated with new tech trends  
