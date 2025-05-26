@@ -3,7 +3,7 @@
 🚀 **Full-Stack Developer | Cybersecurity Enthusiast**  
 🌱 Passionate about building scalable web applications and exploring the world of cybersecurity.  
 
-## 🔧 Technologies & Skills  
+## 🔧 Technologies & Interests  
 - **Languages & Frameworks:** Node.js, Express.js, MongoDB, React.js, JavaScript, Python, Java, Bootstrap, Tailwind CSS, HTML5, CSS, C.  
 - **Interests:** Cybersecurity, Ethical Hacking, Web Development, Full-Stack Development.  
 
