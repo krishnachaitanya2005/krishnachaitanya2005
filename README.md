@@ -5,10 +5,11 @@
 
 ## 🔧 Technologies & Skills  
 - **Languages & Frameworks:** Node.js, Express.js, MongoDB, React.js, JavaScript, Python, Java, Bootstrap, Tailwind CSS, HTML5, CSS, C.  
-- **Interests:** Cybersecurity, Web Development, Full-Stack Development.  
+- **Interests:** Cybersecurity, Ethical Hacking, Web Development, Full-Stack Development.  
 
 ## 📌 Featured Project  
-🚀 **[AIrbnb Clone](https://github.com/krishnachaitanya2005/Sigma-Project)** – A notable project showcasing my skills in full-stack development.  
+🚀 **[Airbnb Clone](https://github.com/krishnachaitanya2005/Apna-College-Major-Project.git)** – A notable project showcasing my skills in full-stack development.  
+🚀 **[Zerodha Clone](https://github.com/krishnachaitanya2005/Zerodha-Clone.git)** – A notable project showcasing my skills in full-stack development using MERN-stack.  
 
 ## 📫 Connect with Me  
 - 🌍 **GitHub:** [github.com/krishnachaitanya2005](https://github.com/krishnachaitanya2005)  
