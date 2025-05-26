@@ -16,7 +16,7 @@
 - 💼 **LinkedIn:** [linkedin.com/in/krishna-chaitanya-8b21342a6](https://www.linkedin.com/in/krishna-chaitanya-8b21342a6)  
 - 📧 **Email:** [chaitanya.jgs@gmail.com](mailto:chaitanya.jgs@gmail.com)  
 
-## 🎯 Hobbies & Interests  
+## 🎯 Hobbies  
 🔹 Staying updated with new tech trends  
 🔹 Exploring new features & technologies  
 🔹 Building networks and collaborating with developers  
